@@ -1,8 +1,8 @@
 num=int(raw_input())
 if num>0:
-  print "num is positive"
+  print "Positive"
 elif num<0:
-  print "num is negative"
+  print "Negative"
 else:
   print "num is zero"
   

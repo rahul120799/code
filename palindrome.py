@@ -1,11 +1,11 @@
-n=int(input())
-temp=n
-rev=0
-while(n>0):
-    dig=n%10
-    rev=rev*10+dig
-    n=n//10
-if(temp==rev):
+a=int(raw_input())
+temp=a
+re=0
+while(a>0):
+    dig=a%10
+    re=re*10+dig
+    a=a//10
+if(temp==re):
     print("yes")
 else:
     print("no")

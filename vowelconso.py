@@ -6,10 +6,5 @@ elif val.isalpha():
 	for x in exp:
 		if x==val:
 			print "Vowel"
-else:
-	print "Consonant"
-	
-
-	
-	
-	
+	else:
+		print "Consonant"

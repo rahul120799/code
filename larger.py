@@ -1,0 +1,13 @@
+i=int(input())
+j=int(input())
+k=int(input())
+c=i
+e=j
+f=k
+if(c>e):
+  if(c>f):
+    print(c)
+elif(e>f):
+  print(e)
+else:
+  print(f)

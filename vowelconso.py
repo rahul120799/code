@@ -8,3 +8,5 @@ elif val.isalpha():
 			print "Vowel"
 	else:
 		print "Consonant"
+else:
+	print "invalid"

@@ -1,4 +1,3 @@
-n=int(raw_input())
-K=int(raw_input())
+N,K=map(int,input().split())
 an=n**K
 print an

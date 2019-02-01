@@ -1,4 +1,4 @@
-N=int(raw_input())
-k=int(raw_input())
-ans=N**k
-print ans
+n=int(raw_input())
+K=int(raw_input())
+an=n**K
+print an

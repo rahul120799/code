@@ -1,5 +1,4 @@
-num1=int(raw_input())
-num=int(raw_input())
+num1,num=map(int,raw_input().split())
 count=0
 for x in range(num1+1,num):
 	for y in range(1,num+1):

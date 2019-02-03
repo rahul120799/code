@@ -6,5 +6,5 @@ for x in range(num1+1,num):
 		if x%y==0:
 			count+=1
 	if count==2:
-		print x
+		print x,
 	count=0

@@ -6,4 +6,4 @@ if num==0:
 else:
     for i in range(1,num+1):
         new*=i
-        print new
+    print new

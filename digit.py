@@ -10,5 +10,5 @@ if i<1:
     if a.isdigit():
         print "yes"
     else:
-        print "no"
+        print "No"
 
